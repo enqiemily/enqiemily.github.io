@@ -68,7 +68,8 @@ header {
   margin: 0 auto;
   left: 0;
   right: 0;
-  top: 40%;
+  top: 30%;
   text-align: center;
   width: 60%;
+  padding-left: 175px;
 }
