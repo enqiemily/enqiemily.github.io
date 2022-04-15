@@ -61,7 +61,9 @@ header {
 
 p {
   font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
 }
+
 .box {
   position: relative;
   display: inline-block;
