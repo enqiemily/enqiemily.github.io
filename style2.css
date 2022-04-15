@@ -1,0 +1,51 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+}
+
+.sidebar {
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 40px;
+  background-color: #212121;
+}
+
+.sidebar div {
+  padding: 8px;
+  font-size: 15px;
+  display: block;
+}
+
+.body-text {
+  margin-left: 150px;
+  font-size: 18px;
+}
+
+.baritem {
+  padding: 8px 16px;
+  float: left;
+  width: auto;
+  border: none;
+  display: block;
+  outline: 0;
+  width: 100%;
+  display: block;
+  padding: 8px 16px;
+  text-align: center;
+  border: none;
+  white-space: normal;
+  float: none;
+  outline: 0;
+  text-decoration: none;
+}
